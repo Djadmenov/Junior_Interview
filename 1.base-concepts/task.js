@@ -1,5 +1,5 @@
 function solveEquation(a, b, c) {
   let arr;
-  // код для задачи №1 писать здесь
+  console.log(arr1==arr2);
   return arr; // array
 }
